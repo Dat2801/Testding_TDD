@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/junit-simple-calculator.iml" filepath="$PROJECT_DIR$/junit-simple-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Testing_TDD1.iml" filepath="$PROJECT_DIR$/Testing_TDD1.iml" />
     </modules>
   </component>
 </project>
